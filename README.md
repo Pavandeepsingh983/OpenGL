@@ -14,11 +14,6 @@ A fun exploratory project using **OpenGL**, C++, and GLSL shaders to render grap
 - [Project Structure](#project-structure)  
 - [Dependencies](#dependencies)  
 - [Getting Started / Build Instructions](#getting-started--build-instructions)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)
 
 ---
 
