@@ -1,4 +1,4 @@
-# OpenGL Fun Project
+# OpenGL Rendering Project
 
 [![C++](https://img.shields.io/badge/language-C%2B%2B-blue)](#)  
 [![OpenGL](https://img.shields.io/badge/graphics-OpenGL-green)](#)
